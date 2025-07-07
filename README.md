@@ -10,7 +10,7 @@
 
 ## 🚀 [Live Demo](https://video-gram.vercel.app/)
 
-Experience VideoGram instantly: [https://videogram-tau.vercel.app/]((https://videogram-tau.vercel.app/)
+Experience VideoGram instantly: ((https://videogram-tau.vercel.app/)
 
 ---
 
