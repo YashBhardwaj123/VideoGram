@@ -1,6 +1,6 @@
 # 🎬 **VideoGram** — Professional Video Platform
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-VideoGram-blueviolet?style=for-the-badge&logo=vercel)](https://video-gram.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-VideoGram-blueviolet?style=for-the-badge&logo=vercel)](https://videogram-tau.vercel.app/)
 
 ---
 
