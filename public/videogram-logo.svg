@@ -1,0 +1,16 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="vg-gradient" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff512f"/>
+      <stop offset="1" stop-color="#dd2476"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#vg-gradient)"/>
+  <g filter="url(#shadow)">
+    <polygon points="22,16 48,32 22,48" fill="#fff" opacity="0.95"/>
+  </g>
+  <text x="14" y="56" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="bold" fill="#fff" opacity="0.92">VG</text>
+  <filter id="shadow" x="0" y="0" width="64" height="64">
+    <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.18"/>
+  </filter>
+</svg> 
